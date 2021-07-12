@@ -49,7 +49,7 @@
 
 ## 交流反馈
 
-欢迎加入我们的QQ群交流反馈：[点此跳转](https://www.uviewui.com/components/addQQGroup.html)
+欢迎加入我们的QQ群812144991交流反馈
 
 ## 安装
 
@@ -126,4 +126,4 @@ Vue.use(uView);
 无
 
 ## 版权信息
-uView遵循[MIT](https://en.wikipedia.org/wiki/MIT_License)开源协议，意味着您无需支付任何费用，也无需授权，即可将uView应用到您的产品中。
+遵循[MIT](https://en.wikipedia.org/wiki/MIT_License)开源协议，意味着您无需支付任何费用，也无需授权，即可将应用到您的产品中。
