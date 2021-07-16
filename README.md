@@ -19,7 +19,7 @@
 您可以通过**微信**扫码，查看最佳的演示效果。
 <br>
 <br>
-<img src="https://uviewui.com/common/weixin_mini_qrcode.png" width="220" height="220" >
+<img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6c7ae040-487f-11e9-807d-d3c1652a5630_0.jpg?v=1554129494" width="220" height="220" >
 
 
 ## 友情链接
