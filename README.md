@@ -19,14 +19,85 @@
 您可以通过**微信**扫码，查看最佳的演示效果。
 <br>
 <br>
-<img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6c7ae040-487f-11e9-807d-d3c1652a5630_0.jpg?v=1554129494" width="220" height="220" >
-<img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6c7ae040-487f-11e9-807d-d3c1652a5630_1.jpg?v=1556459433" width="220" height="220" >
-<img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6c7ae040-487f-11e9-807d-d3c1652a5630_2.jpg?v=1556630147" width="220" height="220" >
+<img src="https://uviewui.com/common/weixin_mini_qrcode.png" width="220" height="220" >
+
+
+## 友情链接
+
+#### **vue-admin-beautiful** —— [企业级、通用型中后台前端解决方案（基于vue/cli 4 最新版，同时支持电脑，手机，平板）](https://github.com/chuzhixin/vue-admin-beautiful)
+
+#### **vue-admin-beautiful** —— [在线演示](http://beautiful.panm.cn/vue-admin-beautiful/#/index)
+
+#### **pl-table** —— [ 完美解决 element 万级表格数据渲染卡顿问题](https://github.com/livelyPeng/pl-table)
+
+#### **luch-request** —— [基于 Promise 开发的 uni-app 跨平台、项目级别的请求库，它有更小的体积，易用的 api，方便简单的自定义能力](https://www.quanzhan.co/luch-request/)
 <br>
+
+## 链接
+
+- [官方文档](https://uviewui.com/)
+- [更新日志](https://uviewui.com/components/changelog.html)
+- [升级指南](https://uviewui.com/components/changelog.html)
+- [关于我们](https://uviewui.com/cooperation/about.html)
 
 ## 交流反馈
 
 欢迎加入我们的QQ群812144991交流反馈
+
+## 安装
+
+#### **下载地址** —— [https://ext.dcloud.net.cn/plugin?id=1593](https://ext.dcloud.net.cn/plugin?id=1593)
+
+## 快速上手
+
+1. `main.js`
+
+2. `App.vue`引入基础样式(注意style标签需声明scss属性支持)
+```css
+/* App.vue */
+<style lang="scss">
+@import "uview-ui/index.scss";
+</style>
+```
+
+3. `uni.scss`引入全局scss变量文件
+```css
+/* uni.scss */
+@import "uview-ui/theme.scss";
+```
+
+4. `pages.json`配置easycom规则(按需引入)
+
+```js
+// pages.json
+{
+	"easycom": {
+		// 下载安装的方式需要前面的"@/"，npm安装的方式无需"@/"
+		// 下载安装方式
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+		// npm安装方式
+		// "^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	// 此为本身已有的内容
+	"pages": [
+		// ......
+	]
+}
+```
+
+请通过[快速上手](https://uviewui.com/components/quickstart.html)了解更详细的内容
+
+## 使用方法
+配置easycom规则后，自动按需引入，无需`import`组件，直接引用即可。
+
+```html
+<template>
+	<u-button>按钮</u-button>
+</template>
+```
+
+请通过[快速上手](https://uviewui.com/components/quickstart.html)了解更详细的内容
+
 
 ## 隐私、权限声明
 
