@@ -16,11 +16,6 @@
 
 ## 预览
 
-您可以通过**微信**扫码，查看最佳的演示效果。
-<br>
-<br>
-<<<<<<< HEAD
-<img src="https://uviewui.com/common/weixin_mini_qrcode.png" width="220" height="220" >
 
 
 ## 友情链接
