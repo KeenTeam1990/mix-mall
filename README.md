@@ -55,43 +55,6 @@
 
 ## 快速上手
 
-1. `main.js`
-
-2. `App.vue`引入基础样式(注意style标签需声明scss属性支持)
-```css
-/* App.vue */
-<style lang="scss">
-@import "uview-ui/index.scss";
-</style>
-```
-
-3. `uni.scss`引入全局scss变量文件
-```css
-/* uni.scss */
-@import "uview-ui/theme.scss";
-```
-
-4. `pages.json`配置easycom规则(按需引入)
-
-```js
-// pages.json
-{
-	"easycom": {
-		// 下载安装的方式需要前面的"@/"，npm安装的方式无需"@/"
-		// 下载安装方式
-		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
-		// npm安装方式
-		// "^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
-	},
-	// 此为本身已有的内容
-	"pages": [
-		// ......
-	]
-}
-```
-
-请通过[快速上手](https://uviewui.com/components/quickstart.html)了解更详细的内容
-
 ## 使用方法
 配置easycom规则后，自动按需引入，无需`import`组件，直接引用即可。
 
