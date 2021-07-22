@@ -17,7 +17,6 @@
 ## 预览
 
 
-
 ## 友情链接
 
 #### **vue-admin-beautiful** —— [企业级、通用型中后台前端解决方案（基于vue/cli 4 最新版，同时支持电脑，手机，平板）](https://github.com/chuzhixin/vue-admin-beautiful)
@@ -31,19 +30,12 @@
 
 ## 链接
 
-- [官方文档](https://uviewui.com/)
-- [更新日志](https://uviewui.com/components/changelog.html)
-- [升级指南](https://uviewui.com/components/changelog.html)
-- [关于我们](https://uviewui.com/cooperation/about.html)
-=======
 <img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6c7ae040-487f-11e9-807d-d3c1652a5630_0.jpg?v=1554129494" width="220" height="220" >
 <img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6c7ae040-487f-11e9-807d-d3c1652a5630_1.jpg?v=1556459433" width="220" height="220" >
 <br>
 <img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6c7ae040-487f-11e9-807d-d3c1652a5630_2.jpg?v=1556630147" width="220" height="220" >
 <br>
 
-
->>>>>>> parent of 0d68e89 (update)
 
 ## 交流反馈
 
