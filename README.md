@@ -19,15 +19,6 @@
 
 ## 友情链接
 
-#### **vue-admin-beautiful** —— [企业级、通用型中后台前端解决方案（基于vue/cli 4 最新版，同时支持电脑，手机，平板）](https://github.com/chuzhixin/vue-admin-beautiful)
-
-#### **vue-admin-beautiful** —— [在线演示](http://beautiful.panm.cn/vue-admin-beautiful/#/index)
-
-#### **pl-table** —— [ 完美解决 element 万级表格数据渲染卡顿问题](https://github.com/livelyPeng/pl-table)
-
-#### **luch-request** —— [基于 Promise 开发的 uni-app 跨平台、项目级别的请求库，它有更小的体积，易用的 api，方便简单的自定义能力](https://www.quanzhan.co/luch-request/)
-<br>
-
 ## 链接
 
 <img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6c7ae040-487f-11e9-807d-d3c1652a5630_0.jpg?v=1554129494" width="220" height="220" >
