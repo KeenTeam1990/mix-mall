@@ -34,7 +34,7 @@
 
 ## 安装
 
-#### **下载地址** —— [https://ext.dcloud.net.cn/plugin?id=1593](https://ext.dcloud.net.cn/plugin?id=1593)
+#### **下载地址** 
 
 ## 快速上手
 
