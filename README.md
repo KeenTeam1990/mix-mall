@@ -39,15 +39,6 @@
 ## 快速上手
 
 ## 使用方法
-配置easycom规则后，自动按需引入，无需`import`组件，直接引用即可。
-
-```html
-<template>
-	<u-button>按钮</u-button>
-</template>
-```
-
-请通过[快速上手](https://uviewui.com/components/quickstart.html)了解更详细的内容
 
 
 ## 隐私、权限声明
