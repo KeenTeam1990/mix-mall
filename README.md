@@ -11,7 +11,7 @@
 
 ## 官方群：812144991（已满）
 
-## [点击加群交流反馈：812144991](https://qm.qq.com/cgi-bin/qm/qr?k=nSvu1k6AFqHVvZhgN9FEavJPXIMyYCxY&jump_from=webapi)
+## [点击加群交流反馈：812144991](https://qm.qq.com)
 
 ## 特性
 
