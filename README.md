@@ -7,6 +7,8 @@
 
 ## 官方群：812144991（成员已满）
 
+欢迎加入我们的QQ群：812144991 交流反馈~
+
 ## [点击加群交流反馈：753151041/812144991](https://www.baidu.com)
 
 ## 特性
@@ -26,10 +28,6 @@
 <br>
 <img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6c7ae040-487f-11e9-807d-d3c1652a5630_2.jpg?v=1556630147" width="220" height="220" >
 <br>
-
-## 交流反馈
-
-欢迎加入我们的QQ群：812144991 交流反馈~
 
 ## 隐私、权限声明
 
